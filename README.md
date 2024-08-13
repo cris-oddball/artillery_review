@@ -7,4 +7,4 @@ Documentation [here](https://www.artillery.io/docs/get-started/get-artillery)
 2. Install Node.js (use nvm, if installed, to manage node versions)
 3. [Install](https://www.artillery.io/docs/get-started/get-artillery) artillery
 4. Pull down repo
-5. Run `artillery run my-script.yaml`
+5. Run `artillery run asciiart-load-test.yaml`
